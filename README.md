@@ -7,6 +7,12 @@
 ![Theme](https://img.shields.io/badge/Theme-WhiteSur-lightgrey?style=flat-square)
 
 ---
+## 📸 Screenshots
+
+![Desktop](desktop.png)
+![Dock](dock.png)
+![Launcher](launcher.png)
+---
 
 ## ✨ Features
 
